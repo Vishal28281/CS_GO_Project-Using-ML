@@ -1,6 +1,8 @@
 # CS_GO_Project-Using-ML
 This project focuses on building a machine learning model to predict the winner of a round in Counter-Strike: Global Offensive (CS:GO) based on game snapshot data. It explores data preprocessing, visualization, feature engineering, and classification models to determine which team (Terrorists or Counter-Terrorists) is more likely to win a round.
 
+Dataset link - https://drive.google.com/file/d/1Gf7Z3zF1xQlwN0TbGBiXivOwlPXmdbe2/view?usp=sharing
+
 🎯 Problem Statement
 
 The objective of this project is to analyze CS:GO round snapshot data and use machine learning algorithms to classify which team wins a round. The dataset includes features such as:
